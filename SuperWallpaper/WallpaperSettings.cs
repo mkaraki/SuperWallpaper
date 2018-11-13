@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SuperWallpaper
 {
-    public partial class Form1 : Form
+    public partial class WallpaperSettings : Form
     {
-        public Form1()
+        public WallpaperSettings()
         {
             InitializeComponent();
         }
